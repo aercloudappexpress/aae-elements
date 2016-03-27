@@ -1,0 +1,30 @@
+{
+  "name": "aae-elements",
+  "version": "1.0.0",
+  "description": "A set of elements for creating IoT apps",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "iot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aercloudappexpress/aae-elements.git"
+  },
+  "dependencies": {
+    "aae-google-map": "aercloudappexpress/aae-google-map"
+  },
+  "homepage": "https://github.com/aercloudappexpress/aae-elements",
+  "authors": [
+    "The IoTon Authors"
+  ],
+  "license": "http://aercloud.github.io/LICENSE.txt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "aae-elements.html"
+}
